@@ -1,0 +1,23 @@
+# RSS-ленты по ML / NLP / Data Science
+# По одной ссылке на строке. Строки с # игнорируются.
+
+# Hugging Face — блог
+https://huggingface.co/blog/feed.xml
+
+# Google Research / AI Blog
+https://blog.research.google/feeds/posts/default
+
+# arXiv: Computation and Language (cs.CL — NLP)
+https://rss.arxiv.org/rss/cs.CL
+
+# arXiv: Machine Learning (cs.LG)
+https://rss.arxiv.org/rss/cs.LG
+
+# MIT Technology Review — AI
+https://www.technologyreview.com/topic/artificial-intelligence/feed/
+
+# The Gradient
+https://thegradient.pub/rss/
+
+# Distill / Sebastian Raschka (ahead of AI)
+https://magazine.sebastianraschka.com/feed
