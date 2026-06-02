@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-02 12:32 UTC
+
+- [Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains](https://huggingface.co/blog/JetBrains/mellum2-launch) — Hugging Face - Blog
+- [DraDDP: A Multimodal Multi-Party Dialogue Discourse Parsing Dataset](https://arxiv.org/abs/2606.00012) — cs.CL updates on arXiv.org
+- [Toward Robust In-Context Learning: Leveraging Out-of-distribution Proxies for Target Inaccessible Demonstration Retrieval](https://arxiv.org/abs/2606.00014) — cs.CL updates on arXiv.org
+- [AEyeDE: An Attention-Based Attribution Framework for AI-Generated Text Detection](https://arxiv.org/abs/2606.00016) — cs.CL updates on arXiv.org
+- [CSRP: Chain-of-Thought Reasoning for Chinese Text Correction via Reinforcement Learning with Efficiency-Aware Rewards](https://arxiv.org/abs/2606.00020) — cs.CL updates on arXiv.org
+- [SENSE: Semantic Embedding Navigation with Soft-gated Evaluation for Retrieval-based Speculative Decoding](https://arxiv.org/abs/2606.00021) — cs.CL updates on arXiv.org
+- [lmfaoooo at SemEval-2026 Task 1: Humor Is an Audience. Preference Modeling for Constrained Humor Generation](https://arxiv.org/abs/2606.00022) — cs.CL updates on arXiv.org
+- [TrustLDM: Benchmarking Trustworthiness in Language Diffusion Models](https://arxiv.org/abs/2606.00023) — cs.CL updates on arXiv.org
+- [ART: Attention Run-time Termination for Efficient Large Language Model Decoding](https://arxiv.org/abs/2606.00024) — cs.CL updates on arXiv.org
+- [Cognitive-Linguistic Indicators of Depression in Online Communities: Analysed by DistilBERT and Holographic Reduced Representation](https://arxiv.org/abs/2606.00026) — cs.CL updates on arXiv.org
+- [A Multi-Domain Red Teaming Framework for Safety, Robustness, and Fairness Evaluation of Medical Large Language Models](https://arxiv.org/abs/2606.00027) — cs.CL updates on arXiv.org
+- [TCAR-Gen: Temporal Graph Retrieval with Evidence Fusion for Knowledge-Grounded Generation](https://arxiv.org/abs/2606.00029) — cs.CL updates on arXiv.org
+
 ## Обновление 2026-06-01 14:43 UTC
 
 - [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) — Hugging Face - Blog
