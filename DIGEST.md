@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-05 11:54 UTC
+
+- [Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html) — Google AI Blog
+- [AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html) — Google AI Blog
+- [Cappy: Outperforming and boosting large multi-task language models with a small scorer](http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html) — Google AI Blog
+- [VideoPrism: A foundational visual encoder for video understanding](http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html) — Google AI Blog
+- [Advances in private training for production on-device language models](http://blog.research.google/2024/02/advances-in-private-training-for.html) — Google AI Blog
+- [Learning the importance of training data under concept drift](http://blog.research.google/2024/02/learning-importance-of-training-data.html) — Google AI Blog
+- [MobileDiffusion: Rapid text-to-image generation on-device](http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html) — Google AI Blog
+- [Mixed-input matrix multiplication performance optimizations](http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html) — Google AI Blog
+- [Exphormer: Scaling transformers for graph-structured data](http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html) — Google AI Blog
+- [Epidemiology of Model Collapse: Modeling Synthetic Data Contamination via Bilayer SIR Dynamics](https://arxiv.org/abs/2606.05168) — cs.CL updates on arXiv.org
+- [Predict and Reconstruct: Joint Objectives for Self-Supervised Language Representation Learning](https://arxiv.org/abs/2606.05173) — cs.CL updates on arXiv.org
+- [Improving Heart-Focused Medical Question Answering in LLMs via Variance-Aware Rubric Rewards with GRPO](https://arxiv.org/abs/2606.05174) — cs.CL updates on arXiv.org
+
 ## Обновление 2026-06-04 11:42 UTC
 
 - [Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining](https://huggingface.co/blog/nvidia/task-seeded-sdg) — Hugging Face - Blog
