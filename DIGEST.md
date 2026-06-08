@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-08 12:54 UTC
+
+- [Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem](https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper) — Hugging Face - Blog
+- [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2) — Hugging Face - Blog
+- [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](https://huggingface.co/blog/waypoint-1-5) — Hugging Face - Blog
+- [Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](https://huggingface.co/blog/async-rl-training-landscape) — Hugging Face - Blog
+- [Custom Kernels for All from Codex and Claude](https://huggingface.co/blog/custom-cuda-kernels-agent-skills) — Hugging Face - Blog
+- [Building for an Open Future - our new partnership with Google Cloud](https://huggingface.co/blog/google-cloud) — Hugging Face - Blog
+- [Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac](https://huggingface.co/blog/lerobotxnvidia-healthcare) — Hugging Face - Blog
+- [Scaleway on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-scaleway) — Hugging Face - Blog
+- [Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training](https://huggingface.co/blog/accelerate-nd-parallel) — Hugging Face - Blog
+- [Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure](https://huggingface.co/blog/infrastructure-alerting) — Hugging Face - Blog
+- [Gemma 3n fully available in the open-source ecosystem!](https://huggingface.co/blog/gemma3n) — Hugging Face - Blog
+- [How Long Prompts Block Other Requests - Optimizing LLM Performance](https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts) — Hugging Face - Blog
+
 ## Обновление 2026-06-07 10:58 UTC
 
 - [Her · हेर — a detective for your Claude Code sessions](https://huggingface.co/blog/build-small-hackathon/her-blog) — Hugging Face - Blog
