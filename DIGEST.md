@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-10 12:11 UTC
+
+- [Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech](https://huggingface.co/blog/ServiceNow-AI/code-switching) — Hugging Face - Blog
+- [Introducing North Mini Code: Cohere’s First Model For Developers](https://huggingface.co/blog/CohereLabs/introducing-north-mini-code) — Hugging Face - Blog
+- [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) — Hugging Face - Blog
+- [Migrating Your GitHub CI to Hugging Face Jobs](https://huggingface.co/blog/github-ci-hf-jobs) — Hugging Face - Blog
+- [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) — Hugging Face - Blog
+- [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) — Hugging Face - Blog
+- [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) — Hugging Face - Blog
+- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) — Hugging Face - Blog
+- [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini) — Hugging Face - Blog
+- [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) — Hugging Face - Blog
+- [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](https://huggingface.co/blog/delta-weight-sync) — Hugging Face - Blog
+- [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) — Hugging Face - Blog
+
 ## Обновление 2026-06-09 11:51 UTC
 
 - [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) — Hugging Face - Blog
