@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-14 11:21 UTC
+
+- [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](https://huggingface.co/blog/agent-glossary) — Hugging Face - Blog
+- [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](https://huggingface.co/blog/waypoint-1-5) — Hugging Face - Blog
+- [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) — Hugging Face - Blog
+- [Any Custom Frontend with Gradio's Backend](https://huggingface.co/blog/introducing-gradio-server) — Hugging Face - Blog
+- [PRX Part 3 — Training a Text-to-Image Model in 24h!](https://huggingface.co/blog/Photoroom/prx-part3) — Hugging Face - Blog
+- [Mixture of Experts (MoEs) in Transformers](https://huggingface.co/blog/moe-transformers) — Hugging Face - Blog
+- [Community Evals: Because we're done trusting black-box leaderboards over the community](https://huggingface.co/blog/community-evals) — Hugging Face - Blog
+- [Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2) — Hugging Face - Blog
+- [Building for an Open Future - our new partnership with Google Cloud](https://huggingface.co/blog/google-cloud) — Hugging Face - Blog
+- [huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](https://huggingface.co/blog/huggingface-hub-v1) — Hugging Face - Blog
+- [AI for Food Allergies](https://huggingface.co/blog/hugging-science/ai-for-food-allergies) — Hugging Face - Blog
+- [VibeGame: Exploring Vibe Coding Games](https://huggingface.co/blog/vibegame) — Hugging Face - Blog
+
 ## Обновление 2026-06-13 11:06 UTC
 
 - [olmo-eval: An evaluation workbench for the model development loop](https://huggingface.co/blog/allenai/olmo-eval) — Hugging Face - Blog
