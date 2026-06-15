@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-15 14:52 UTC
+
+- [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) — Hugging Face - Blog
+- [Community Evals: Because we're done trusting black-box leaderboards over the community](https://huggingface.co/blog/community-evals) — Hugging Face - Blog
+- [We Got Claude to Fine-Tune an Open Source LLM](https://huggingface.co/blog/hf-skills-training) — Hugging Face - Blog
+- [Gaia2 and ARE: Empowering the community to study agents](https://huggingface.co/blog/gaia2) — Hugging Face - Blog
+- [KV Cache from scratch in nanoVLM](https://huggingface.co/blog/kv-cache) — Hugging Face - Blog
+- [Falcon-Arabic: A Breakthrough in Arabic Language Models](https://huggingface.co/blog/tiiuae/falcon-arabic) — Hugging Face - Blog
+- [LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?](https://huggingface.co/blog/lerobot-datasets) — Hugging Face - Blog
+- [Welcome Llama 4 Maverick & Scout on Hugging Face](https://huggingface.co/blog/llama4-release) — Hugging Face - Blog
+- [The New and Fresh analytics in Inference Endpoints](https://huggingface.co/blog/endpoint-analytics) — Hugging Face - Blog
+- [HuggingFace, IISc partner to supercharge model building on India's diverse languages](https://huggingface.co/blog/iisc-huggingface-collab) — Hugging Face - Blog
+- [DABStep: Data Agent Benchmark for Multi-step Reasoning](https://huggingface.co/blog/dabstep) — Hugging Face - Blog
+- [Benchmarking Language Model Performance on 5th Gen Xeon at GCP](https://huggingface.co/blog/intel-gcp-c4) — Hugging Face - Blog
+
 ## Обновление 2026-06-14 11:21 UTC
 
 - [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](https://huggingface.co/blog/agent-glossary) — Hugging Face - Blog
