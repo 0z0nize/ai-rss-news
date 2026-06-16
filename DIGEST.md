@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-16 13:27 UTC
+
+- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) — Hugging Face - Blog
+- [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) — Hugging Face - Blog
+- [OlmoEarth v1.1: A more efficient family of Earth observation models](https://huggingface.co/blog/allenai/olmoearth-v1-1) — Hugging Face - Blog
+- [How to build scalable web apps with OpenAI's Privacy Filter](https://huggingface.co/blog/openai-privacy-filter-web-apps) — Hugging Face - Blog
+- [How to Use Transformers.js in a Chrome Extension](https://huggingface.co/blog/transformersjs-chrome-extension) — Hugging Face - Blog
+- [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](https://huggingface.co/blog/ecom-rlve) — Hugging Face - Blog
+- [The PR you would have opened yourself](https://huggingface.co/blog/transformers-to-mlx) — Hugging Face - Blog
+- [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers) — Hugging Face - Blog
+- [Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/multimodal-sentence-transformers) — Hugging Face - Blog
+- [Falcon Perception](https://huggingface.co/blog/tiiuae/falcon-perception) — Hugging Face - Blog
+- [Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents](https://huggingface.co/blog/ibm-granite/granite-4-vision) — Hugging Face - Blog
+- [Training mRNA Language Models Across 25 Species for $165](https://huggingface.co/blog/OpenMed/training-mrna-models-25-species) — Hugging Face - Blog
+
 ## Обновление 2026-06-16 13:20 UTC
 
 - [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) — Hugging Face - Blog
