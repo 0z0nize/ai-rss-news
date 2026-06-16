@@ -31,8 +31,8 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "0z0nize"
+          git config user.email "112638163+0z0nize@users.noreply.github.com"
           if [ -n "$(git status --porcelain)" ]; then
             git add DIGEST.md seen.json
             git commit -m "chore(rss): обновление дайджеста $(date -u +'%Y-%m-%d %H:%M UTC')"
@@ -40,3 +40,4 @@ jobs:
           else
             echo "Изменений нет — пропускаю коммит."
           fi
+
