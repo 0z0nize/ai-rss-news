@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-17 12:43 UTC
+
+- [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) — Hugging Face - Blog
+- [GLM-5.2: Built for Long-Horizon Tasks](https://huggingface.co/blog/zai-org/glm-52-blog) — Hugging Face - Blog
+- [olmo-eval: An evaluation workbench for the model development loop](https://huggingface.co/blog/allenai/olmo-eval) — Hugging Face - Blog
+- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) — Hugging Face - Blog
+- [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) — Hugging Face - Blog
+- [Introducing the Ettin Reranker Family](https://huggingface.co/blog/ettin-reranker) — Hugging Face - Blog
+- [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) — Hugging Face - Blog
+- [DeepInfra on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-deepinfra) — Hugging Face - Blog
+- [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4) — Hugging Face - Blog
+- [QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard](https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard) — Hugging Face - Blog
+- [AI and the Future of Cybersecurity: Why Openness Matters](https://huggingface.co/blog/cybersecurity-openness) — Hugging Face - Blog
+- [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) — Hugging Face - Blog
+
 ## Обновление 2026-06-16 13:27 UTC
 
 - [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) — Hugging Face - Blog
