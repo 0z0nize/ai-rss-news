@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-22 14:21 UTC
+
+- [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) — Hugging Face - Blog
+- [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) — Hugging Face - Blog
+- [Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](https://huggingface.co/blog/async-rl-training-landscape) — Hugging Face - Blog
+- [Introducing Daggr: Chain apps programmatically, inspect visually](https://huggingface.co/blog/daggr) — Hugging Face - Blog
+- [Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2) — Hugging Face - Blog
+- [AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality](https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face) — Hugging Face - Blog
+- [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe) — Hugging Face - Blog
+- [Building Deep Research: How we Achieved State of the Art](https://huggingface.co/blog/Tavily/tavily-deep-research) — Hugging Face - Blog
+- [OVHcloud on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud) — Hugging Face - Blog
+- [Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers](https://huggingface.co/blog/faster-transformers) — Hugging Face - Blog
+- [Measuring Open-Source Llama Nemotron Models on DeepResearch Bench](https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent) — Hugging Face - Blog
+- [Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom](https://huggingface.co/blog/Arm/ai-sound-gen-on-arm) — Hugging Face - Blog
+
 ## Обновление 2026-06-21 11:37 UTC
 
 - [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](https://huggingface.co/blog/torch-mlp-fusion) — Hugging Face - Blog
