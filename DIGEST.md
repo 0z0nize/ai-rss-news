@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-23 11:50 UTC
+
+- [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](https://huggingface.co/blog/huggingface-hub-release-ci) — Hugging Face - Blog
+- [We got local models to triage the OpenClaw repo for FREE!*](https://huggingface.co/blog/local-models-pr-triage) — Hugging Face - Blog
+- [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](https://huggingface.co/blog/torch-mlp-fusion) — Hugging Face - Blog
+- [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](https://huggingface.co/blog/delta-weight-sync) — Hugging Face - Blog
+- [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence) — Hugging Face - Blog
+- [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers) — Hugging Face - Blog
+- [A New Framework for Evaluating Voice Agents (EVA)](https://huggingface.co/blog/ServiceNow-AI/eva) — Hugging Face - Blog
+- [Migrating the Hub from Git LFS to Xet](https://huggingface.co/blog/migrating-the-hub-to-xet) — Hugging Face - Blog
+- [Asynchronous Robot Inference: Decoupling Action Prediction and Execution](https://huggingface.co/blog/async-robot-inference) — Hugging Face - Blog
+- [LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?](https://huggingface.co/blog/lerobot-datasets) — Hugging Face - Blog
+- [Cohere on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-cohere) — Hugging Face - Blog
+- [Scaling robotics datasets with video encoding](https://huggingface.co/blog/video-encoding) — Hugging Face - Blog
+
 ## Обновление 2026-06-22 14:21 UTC
 
 - [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) — Hugging Face - Blog
