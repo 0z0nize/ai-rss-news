@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-26 11:35 UTC
+
+- [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs) — Hugging Face - Blog
+- [Which tokens does a hybrid model predict better?](https://huggingface.co/blog/allenai/hybrid-token-prediction) — Hugging Face - Blog
+- [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](https://huggingface.co/blog/ffasr-leaderboard) — Hugging Face - Blog
+- [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) — Hugging Face - Blog
+- [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) — Hugging Face - Blog
+- [Reachy Mini goes fully local](https://huggingface.co/blog/local-reachy-mini-conversation) — Hugging Face - Blog
+- [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](https://huggingface.co/blog/delta-weight-sync) — Hugging Face - Blog
+- [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](https://huggingface.co/blog/agent-glossary) — Hugging Face - Blog
+- [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) — Hugging Face - Blog
+- [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4) — Hugging Face - Blog
+- [Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/multimodal-sentence-transformers) — Hugging Face - Blog
+- [Falcon Perception](https://huggingface.co/blog/tiiuae/falcon-perception) — Hugging Face - Blog
+
 ## Обновление 2026-06-25 11:30 UTC
 
 - [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel) — Hugging Face - Blog
