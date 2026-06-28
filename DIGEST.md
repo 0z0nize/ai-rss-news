@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-28 10:57 UTC
+
+- [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) — Hugging Face - Blog
+- [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) — Hugging Face - Blog
+- [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini) — Hugging Face - Blog
+- [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](https://huggingface.co/blog/torch-profiler) — Hugging Face - Blog
+- [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks) — Hugging Face - Blog
+- [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) — Hugging Face - Blog
+- [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4) — Hugging Face - Blog
+- [How to Use Transformers.js in a Chrome Extension](https://huggingface.co/blog/transformersjs-chrome-extension) — Hugging Face - Blog
+- [Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents](https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis) — Hugging Face - Blog
+- [GGML and llama.cpp join HF to ensure the long-term progress of Local AI](https://huggingface.co/blog/ggml-joins-hf) — Hugging Face - Blog
+- [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3) — Hugging Face - Blog
+- [Introducing Daggr: Chain apps programmatically, inspect visually](https://huggingface.co/blog/daggr) — Hugging Face - Blog
+
 ## Обновление 2026-06-27 10:50 UTC
 
 - [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel) — Hugging Face - Blog
