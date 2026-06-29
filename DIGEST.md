@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-06-29 12:53 UTC
+
+- [We got local models to triage the OpenClaw repo for FREE!*](https://huggingface.co/blog/local-models-pr-triage) — Hugging Face - Blog
+- [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) — Hugging Face - Blog
+- [DeepMath: A lightweight math reasoning Agent with smolagents](https://huggingface.co/blog/intel-deepmath) — Hugging Face - Blog
+- [Building the Open Agent Ecosystem Together: Introducing OpenEnv](https://huggingface.co/blog/openenv) — Hugging Face - Blog
+- [Welcome EmbeddingGemma, Google's new efficient embedding model](https://huggingface.co/blog/embeddinggemma) — Hugging Face - Blog
+- [Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders](https://huggingface.co/blog/reachy-mini) — Hugging Face - Blog
+- [Training and Finetuning Sparse Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-sparse-encoder) — Hugging Face - Blog
+- [Learn the Hugging Face Kernel Hub in 5 Minutes](https://huggingface.co/blog/hello-hf-kernels) — Hugging Face - Blog
+- [🐯 Liger GRPO meets TRL](https://huggingface.co/blog/liger-grpo) — Hugging Face - Blog
+- [Improving Hugging Face Model Access for Kaggle Users](https://huggingface.co/blog/kaggle-integration) — Hugging Face - Blog
+- [Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More](https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval) — Hugging Face - Blog
+- [PaliGemma 2 Mix - New Instruction Vision Language Models by Google](https://huggingface.co/blog/paligemma2mix) — Hugging Face - Blog
+
 ## Обновление 2026-06-28 10:57 UTC
 
 - [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) — Hugging Face - Blog
