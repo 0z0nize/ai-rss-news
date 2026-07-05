@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-07-05 10:55 UTC
+
+- [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](https://huggingface.co/blog/huggingface-hub-release-ci) — Hugging Face - Blog
+- [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) — Hugging Face - Blog
+- [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) — Hugging Face - Blog
+- [How to Use Transformers.js in a Chrome Extension](https://huggingface.co/blog/transformersjs-chrome-extension) — Hugging Face - Blog
+- [AI and the Future of Cybersecurity: Why Openness Matters](https://huggingface.co/blog/cybersecurity-openness) — Hugging Face - Blog
+- [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3) — Hugging Face - Blog
+- [Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs](https://huggingface.co/blog/tiiuae/emirati-benchmarks) — Hugging Face - Blog
+- [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](https://huggingface.co/blog/tiiuae/falcon-h1-arabic) — Hugging Face - Blog
+- [Visible Watermarking with Gradio](https://huggingface.co/blog/watermarking-with-gradio) — Hugging Face - Blog
+- [TextQuests: How Good are LLMs at Text-Based Video Games?](https://huggingface.co/blog/textquests) — Hugging Face - Blog
+- [🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?](https://huggingface.co/blog/filbench) — Hugging Face - Blog
+- [Five Big Improvements to Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-updates) — Hugging Face - Blog
+
 ## Обновление 2026-07-04 10:45 UTC
 
 - [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) — Hugging Face - Blog
