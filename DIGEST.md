@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-07-07 11:35 UTC
+
+- [PRX Part 4: Our Data Strategy](https://huggingface.co/blog/Photoroom/prx-part4-data) — Hugging Face - Blog
+- [Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub](https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl) — Hugging Face - Blog
+- [Groq on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-groq) — Hugging Face - Blog
+- [Introducing the Open FinLLM Leaderboard](https://huggingface.co/blog/leaderboard-finbench) — Hugging Face - Blog
+- [Synthetic data: save money, time and carbon with open source](https://huggingface.co/blog/synthetic-data-save-costs) — Hugging Face - Blog
+- [Fine-tuning Stable Diffusion models on Intel CPUs](https://huggingface.co/blog/stable-diffusion-finetuning-intel) — Hugging Face - Blog
+- [From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease](https://huggingface.co/blog/pytorch-ddp-accelerate-transformers) — Hugging Face - Blog
+- [Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration](https://huggingface.co/blog/intel) — Hugging Face - Blog
+- [Boosting Wav2Vec2 with n-grams in 🤗 Transformers](https://huggingface.co/blog/wav2vec2-with-ngram) — Hugging Face - Blog
+- [Using & Mixing Hugging Face Models with Gradio 2.0](https://huggingface.co/blog/gradio) — Hugging Face - Blog
+- [AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html) — Google AI Blog
+- [Improving LLMs via Validator-to-Generator Alignment](https://arxiv.org/abs/2607.02668) — cs.CL updates on arXiv.org
+
 ## Обновление 2026-07-06 12:32 UTC
 
 - [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) — Hugging Face - Blog
