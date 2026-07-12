@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-07-12 10:16 UTC
+
+- [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) — Hugging Face - Blog
+- [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) — Hugging Face - Blog
+- [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) — Hugging Face - Blog
+- [OlmoEarth v1.1: A more efficient family of Earth observation models](https://huggingface.co/blog/allenai/olmoearth-v1-1) — Hugging Face - Blog
+- [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) — Hugging Face - Blog
+- [H Company's new Holo2 model takes the lead in UI Localization](https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b) — Hugging Face - Blog
+- [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](https://huggingface.co/blog/tiiuae/falcon-h1-arabic) — Hugging Face - Blog
+- [Building for an Open Future - our new partnership with Google Cloud](https://huggingface.co/blog/google-cloud) — Hugging Face - Blog
+- [Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac](https://huggingface.co/blog/lerobotxnvidia-healthcare) — Hugging Face - Blog
+- [Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!](https://huggingface.co/blog/Writer/announcing-palmyra-mini) — Hugging Face - Blog
+- [Welcome EmbeddingGemma, Google's new efficient embedding model](https://huggingface.co/blog/embeddinggemma) — Hugging Face - Blog
+- [Neural Super Sampling is here!](https://huggingface.co/blog/Arm/neural-super-sampling) — Hugging Face - Blog
+
 ## Обновление 2026-07-11 10:07 UTC
 
 - [From Hugging Face to Amazon SageMaker Studio in one click](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio) — Hugging Face - Blog
