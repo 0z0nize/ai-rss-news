@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-07-13 11:46 UTC
+
+- [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) — Hugging Face - Blog
+- [GGML and llama.cpp join HF to ensure the long-term progress of Local AI](https://huggingface.co/blog/ggml-joins-hf) — Hugging Face - Blog
+- [Transformers.js v4: Now Available on NPM!](https://huggingface.co/blog/transformersjs-v4) — Hugging Face - Blog
+- [NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini) — Hugging Face - Blog
+- [Easily Build and Share ROCm Kernels with Hugging Face](https://huggingface.co/blog/build-rocm-kernels) — Hugging Face - Blog
+- [Get your VLM running in 3 simple steps on Intel CPUs](https://huggingface.co/blog/openvino-vlm) — Hugging Face - Blog
+- [Introducing Training Cluster as a Service - a new collaboration with NVIDIA](https://huggingface.co/blog/nvidia-training-cluster) — Hugging Face - Blog
+- [The AI tools for Art Newsletter - Issue 1](https://huggingface.co/blog/ai-art-newsletter-jan-25) — Hugging Face - Blog
+- [SmolVLM Grows Smaller – Introducing the 256M & 500M Models!](https://huggingface.co/blog/smolervlm) — Hugging Face - Blog
+- [Introducing SynthID Text](https://huggingface.co/blog/synthid-text) — Hugging Face - Blog
+- [CinePile 2.0 - making stronger datasets with adversarial refinement](https://huggingface.co/blog/cinepile2) — Hugging Face - Blog
+- [Converting Vertex-Colored Meshes to Textured Meshes](https://huggingface.co/blog/vertex-colored-to-textured-mesh) — Hugging Face - Blog
+
 ## Обновление 2026-07-12 10:16 UTC
 
 - [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) — Hugging Face - Blog
