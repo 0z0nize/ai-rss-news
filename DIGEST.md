@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-07-14 10:27 UTC
+
+- [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile) — Hugging Face - Blog
+- [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench) — Hugging Face - Blog
+- [Agentic Resource Discovery: Let agents search](https://huggingface.co/blog/agentic-resource-discovery-launch) — Hugging Face - Blog
+- [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) — Hugging Face - Blog
+- [Holo3.1: Fast & Local Computer Use Agents](https://huggingface.co/blog/Hcompany/holo31) — Hugging Face - Blog
+- [How to build scalable web apps with OpenAI's Privacy Filter](https://huggingface.co/blog/openai-privacy-filter-web-apps) — Hugging Face - Blog
+- [Falcon Perception](https://huggingface.co/blog/tiiuae/falcon-perception) — Hugging Face - Blog
+- [A New Framework for Evaluating Voice Agents (EVA)](https://huggingface.co/blog/ServiceNow-AI/eva) — Hugging Face - Blog
+- [Ulysses Sequence Parallelism: Training with Million-Token Contexts](https://huggingface.co/blog/ulysses-sp) — Hugging Face - Blog
+- [Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms) — Hugging Face - Blog
+- [PRX Part 3 — Training a Text-to-Image Model in 24h!](https://huggingface.co/blog/Photoroom/prx-part3) — Hugging Face - Blog
+- [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) — Hugging Face - Blog
+
 ## Обновление 2026-07-13 11:46 UTC
 
 - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) — Hugging Face - Blog
