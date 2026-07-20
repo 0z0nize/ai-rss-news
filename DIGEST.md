@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-07-20 11:31 UTC
+
+- [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) — Hugging Face - Blog
+- [Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2) — Hugging Face - Blog
+- [Welcome GPT OSS, the new open-source model family from OpenAI!](https://huggingface.co/blog/welcome-openai-gpt-oss) — Hugging Face - Blog
+- [Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders](https://huggingface.co/blog/reachy-mini) — Hugging Face - Blog
+- [Dell Enterprise Hub is all you need to build AI on premises](https://huggingface.co/blog/dell-ai-applications) — Hugging Face - Blog
+- [Hugging Face and FriendliAI partner to supercharge model deployment on the Hub](https://huggingface.co/blog/friendliai-partnership) — Hugging Face - Blog
+- [Evaluating Audio Reasoning with Big Bench Audio](https://huggingface.co/blog/big-bench-audio-release) — Hugging Face - Blog
+- [Share your open ML datasets on Hugging Face Hub!](https://huggingface.co/blog/researcher-dataset-sharing) — Hugging Face - Blog
+- [How we leveraged distilabel to create an Argilla 2.0 Chatbot](https://huggingface.co/blog/argilla-chatbot) — Hugging Face - Blog
+- [How NuminaMath Won the 1st AIMO Progress Prize](https://huggingface.co/blog/winning-aimo-progress-prize) — Hugging Face - Blog
+- [Welcome Gemma 2 - Google’s new open LLM](https://huggingface.co/blog/gemma2) — Hugging Face - Blog
+- [BigCodeBench: The Next Generation of HumanEval](https://huggingface.co/blog/leaderboard-bigcodebench) — Hugging Face - Blog
+
 ## Обновление 2026-07-19 10:17 UTC
 
 - [Welcome Inkling by Thinking Machines](https://huggingface.co/blog/thinkingmachines-inkling) — Hugging Face - Blog
