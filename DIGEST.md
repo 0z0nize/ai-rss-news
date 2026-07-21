@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-07-21 10:54 UTC
+
+- [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) — Hugging Face - Blog
+- [Introducing Cosmos 3 Edge](https://huggingface.co/blog/nvidia/cosmos3edge) — Hugging Face - Blog
+- [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile) — Hugging Face - Blog
+- [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) — Hugging Face - Blog
+- [Agentic Resource Discovery: Let agents search](https://huggingface.co/blog/agentic-resource-discovery-launch) — Hugging Face - Blog
+- [Reachy Mini goes fully local](https://huggingface.co/blog/local-reachy-mini-conversation) — Hugging Face - Blog
+- [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence) — Hugging Face - Blog
+- [Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/multimodal-sentence-transformers) — Hugging Face - Blog
+- [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) — Hugging Face - Blog
+- [Falcon Perception](https://huggingface.co/blog/tiiuae/falcon-perception) — Hugging Face - Blog
+- [Liberate your OpenClaw](https://huggingface.co/blog/liberate-your-openclaw) — Hugging Face - Blog
+- [Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](https://huggingface.co/blog/async-rl-training-landscape) — Hugging Face - Blog
+
 ## Обновление 2026-07-20 11:31 UTC
 
 - [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) — Hugging Face - Blog
