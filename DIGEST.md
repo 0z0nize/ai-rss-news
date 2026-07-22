@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-07-22 10:55 UTC
+
+- [The State of Simulation for Physical AI: An Overview](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai) — Hugging Face - Blog
+- [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) — Hugging Face - Blog
+- [Welcome Inkling by Thinking Machines](https://huggingface.co/blog/thinkingmachines-inkling) — Hugging Face - Blog
+- [Hugging Face Models on Foundry Managed Compute](https://huggingface.co/blog/microsoft/foundry-managed-compute) — Hugging Face - Blog
+- [PRX Part 4: Our Data Strategy](https://huggingface.co/blog/Photoroom/prx-part4-data) — Hugging Face - Blog
+- [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai) — Hugging Face - Blog
+- [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench) — Hugging Face - Blog
+- [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) — Hugging Face - Blog
+- [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](https://huggingface.co/blog/huggingface-hub-release-ci) — Hugging Face - Blog
+- [Beyond LoRA: Can you beat the most popular fine-tuning technique?](https://huggingface.co/blog/peft-beyond-lora) — Hugging Face - Blog
+- [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) — Hugging Face - Blog
+- [Agentic Resource Discovery: Let agents search](https://huggingface.co/blog/agentic-resource-discovery-launch) — Hugging Face - Blog
+
 ## Обновление 2026-07-21 10:54 UTC
 
 - [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) — Hugging Face - Blog
