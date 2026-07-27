@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-07-27 12:07 UTC
+
+- [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) — Hugging Face - Blog
+- [Native-speed vLLM transformers modeling backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend) — Hugging Face - Blog
+- [From Hugging Face to Amazon SageMaker Studio in one click](https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio) — Hugging Face - Blog
+- [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks) — Hugging Face - Blog
+- [Introducing Storage Buckets on the Hugging Face Hub](https://huggingface.co/blog/storage-buckets) — Hugging Face - Blog
+- [Train AI models with Unsloth and Hugging Face Jobs for FREE](https://huggingface.co/blog/unsloth-jobs) — Hugging Face - Blog
+- [Easily Build and Share ROCm Kernels with Hugging Face](https://huggingface.co/blog/build-rocm-kernels) — Hugging Face - Blog
+- [Hugging Face and VirusTotal collaborate to strengthen AI security](https://huggingface.co/blog/virustotal) — Hugging Face - Blog
+- [Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training](https://huggingface.co/blog/accelerate-nd-parallel) — Hugging Face - Blog
+- [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) — Hugging Face - Blog
+- [Microsoft and Hugging Face expand collaboration](https://huggingface.co/blog/azure-ai-foundry) — Hugging Face - Blog
+- [Improving Hugging Face Model Access for Kaggle Users](https://huggingface.co/blog/kaggle-integration) — Hugging Face - Blog
+
 ## Обновление 2026-07-26 10:26 UTC
 
 - [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq) — Hugging Face - Blog
