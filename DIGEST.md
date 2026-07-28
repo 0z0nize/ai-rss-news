@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-07-28 11:06 UTC
+
+- [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) — Hugging Face - Blog
+- [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) — Hugging Face - Blog
+- [Model Routing Is Simple. Until It Isn’t.](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt) — Hugging Face - Blog
+- [DiScoFormer: One transformer for density and score, across distributions](https://huggingface.co/blog/allenai/discoformer) — Hugging Face - Blog
+- [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel) — Hugging Face - Blog
+- [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](https://huggingface.co/blog/ffasr-leaderboard) — Hugging Face - Blog
+- [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) — Hugging Face - Blog
+- [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini) — Hugging Face - Blog
+- [OlmoEarth v1.1: A more efficient family of Earth observation models](https://huggingface.co/blog/allenai/olmoearth-v1-1) — Hugging Face - Blog
+- [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) — Hugging Face - Blog
+- [How to Use Transformers.js in a Chrome Extension](https://huggingface.co/blog/transformersjs-chrome-extension) — Hugging Face - Blog
+- [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](https://huggingface.co/blog/waypoint-1-5) — Hugging Face - Blog
+
 ## Обновление 2026-07-27 12:07 UTC
 
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) — Hugging Face - Blog
