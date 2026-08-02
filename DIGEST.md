@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-08-02 10:22 UTC
+
+- [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) — Hugging Face - Blog
+- [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) — Hugging Face - Blog
+- [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) — Hugging Face - Blog
+- [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel) — Hugging Face - Blog
+- [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) — Hugging Face - Blog
+- [Custom Kernels for All from Codex and Claude](https://huggingface.co/blog/custom-cuda-kernels-agent-skills) — Hugging Face - Blog
+- [Open Responses: What you need to know](https://huggingface.co/blog/open-responses) — Hugging Face - Blog
+- [Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks](https://huggingface.co/blog/open-asr-leaderboard) — Hugging Face - Blog
+- [BigCodeArena: Judging code generations end to end with code executions](https://huggingface.co/blog/bigcode/arena) — Hugging Face - Blog
+- [`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](https://huggingface.co/blog/lerobot-datasets-v3) — Hugging Face - Blog
+- [Visible Watermarking with Gradio](https://huggingface.co/blog/watermarking-with-gradio) — Hugging Face - Blog
+- [Fine-tune Any LLM from the Hugging Face Hub with Together AI](https://huggingface.co/blog/togethercomputer/together-ft) — Hugging Face - Blog
+
 ## Обновление 2026-08-01 10:23 UTC
 
 - [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management) — Hugging Face - Blog
