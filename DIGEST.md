@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-08-03 12:08 UTC
+
+- [PRX Part 4: Our Data Strategy](https://huggingface.co/blog/Photoroom/prx-part4-data) — Hugging Face - Blog
+- [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs) — Hugging Face - Blog
+- [MosaicLeaks: Can your research agent keep a secret?](https://huggingface.co/blog/ServiceNow/mosaicleaks) — Hugging Face - Blog
+- [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](https://huggingface.co/blog/torch-profiler) — Hugging Face - Blog
+- [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers) — Hugging Face - Blog
+- [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](https://huggingface.co/blog/ibm-research/itbenchandmast) — Hugging Face - Blog
+- [BigCodeArena: Judging code generations end to end with code executions](https://huggingface.co/blog/bigcode/arena) — Hugging Face - Blog
+- [SOTA OCR with Core ML and dots.ocr](https://huggingface.co/blog/dots-ocr-ne) — Hugging Face - Blog
+- [Scaleway on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-scaleway) — Hugging Face - Blog
+- [mmBERT: ModernBERT goes Multilingual](https://huggingface.co/blog/mmbert) — Hugging Face - Blog
+- [TimeScope: How Long Can Your Video Large Multimodal Model Go?](https://huggingface.co/blog/timescope-video-lmm-benchmark) — Hugging Face - Blog
+- [Efficient MultiModal Data Pipeline](https://huggingface.co/blog/mmdp) — Hugging Face - Blog
+
 ## Обновление 2026-08-02 10:22 UTC
 
 - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) — Hugging Face - Blog
