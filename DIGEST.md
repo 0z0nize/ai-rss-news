@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-08-10 10:05 UTC
+
+- [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel) — Hugging Face - Blog
+- [MosaicLeaks: Can your research agent keep a secret?](https://huggingface.co/blog/ServiceNow/mosaicleaks) — Hugging Face - Blog
+- [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](https://huggingface.co/blog/ecom-rlve) — Hugging Face - Blog
+- [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](https://huggingface.co/blog/modular-diffusers) — Hugging Face - Blog
+- [Differential Transformer V2](https://huggingface.co/blog/microsoft/diff-attn-v2) — Hugging Face - Blog
+- [Parquet Content-Defined Chunking](https://huggingface.co/blog/parquet-cdc) — Hugging Face - Blog
+- [KV Cache from scratch in nanoVLM](https://huggingface.co/blog/kv-cache) — Hugging Face - Blog
+- [The Transformers Library: standardizing model definitions](https://huggingface.co/blog/transformers-model-definition) — Hugging Face - Blog
+- [Tiny Agents: an MCP-powered agent in 50 lines of code](https://huggingface.co/blog/tiny-agents) — Hugging Face - Blog
+- [🚀 Accelerating LLM Inference with TGI on Intel Gaudi](https://huggingface.co/blog/intel-gaudi-backend-for-tgi) — Hugging Face - Blog
+- [Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial](https://huggingface.co/blog/open-r1/mini-r1-contdown-game) — Hugging Face - Blog
+- [Welcome to Inference Providers on the Hub 🔥](https://huggingface.co/blog/inference-providers) — Hugging Face - Blog
+
 ## Обновление 2026-08-09 09:25 UTC
 
 - [Deploy local agents everywhere with LFM2.5-2.6B](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b) — Hugging Face - Blog
