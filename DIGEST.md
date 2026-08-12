@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-08-12 09:51 UTC
+
+- [Thinking of ACE? We Can Do It with Fewer Tokens](https://huggingface.co/blog/ibm-research/altk-evolve-sldd) — Hugging Face - Blog
+- [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer) — Hugging Face - Blog
+- [Baseten on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/baseten) — Hugging Face - Blog
+- [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) — Hugging Face - Blog
+- [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) — Hugging Face - Blog
+- [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) — Hugging Face - Blog
+- [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages) — Hugging Face - Blog
+- [Model Routing Is Simple. Until It Isn’t.](https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt) — Hugging Face - Blog
+- [Welcome Inkling by Thinking Machines](https://huggingface.co/blog/thinkingmachines-inkling) — Hugging Face - Blog
+- [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq) — Hugging Face - Blog
+- [Native-speed vLLM transformers modeling backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend) — Hugging Face - Blog
+- [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](https://huggingface.co/blog/skypilot-hf-storage) — Hugging Face - Blog
+
 ## Обновление 2026-08-11 09:46 UTC
 
 - [Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS](https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents) — Hugging Face - Blog
