@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-08-17 09:26 UTC
+
+- [How to Use Transformers.js in a Chrome Extension](https://huggingface.co/blog/transformersjs-chrome-extension) — Hugging Face - Blog
+- [Mixture of Experts (MoEs) in Transformers](https://huggingface.co/blog/moe-transformers) — Hugging Face - Blog
+- [Differential Transformer V2](https://huggingface.co/blog/microsoft/diff-attn-v2) — Hugging Face - Blog
+- [Open Responses: What you need to know](https://huggingface.co/blog/open-responses) — Hugging Face - Blog
+- [Diffusers welcomes FLUX-2](https://huggingface.co/blog/flux-2) — Hugging Face - Blog
+- [huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](https://huggingface.co/blog/huggingface-hub-v1) — Hugging Face - Blog
+- [Public AI on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-publicai) — Hugging Face - Blog
+- [`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](https://huggingface.co/blog/lerobot-datasets-v3) — Hugging Face - Blog
+- [Measuring Open-Source Llama Nemotron Models on DeepResearch Bench](https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent) — Hugging Face - Blog
+- [SmolLM3: smol, multilingual, long-context reasoner](https://huggingface.co/blog/smollm3) — Hugging Face - Blog
+- [🐯 Liger GRPO meets TRL](https://huggingface.co/blog/liger-grpo) — Hugging Face - Blog
+- [The NLP Course is becoming the LLM Course](https://huggingface.co/blog/llm-course) — Hugging Face - Blog
+
 ## Обновление 2026-08-16 09:14 UTC
 
 - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) — Hugging Face - Blog
