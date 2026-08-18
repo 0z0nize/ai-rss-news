@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-08-18 09:18 UTC
+
+- [Same Cluster, 33 Points More Utilization: What Changed Was the Order](https://huggingface.co/blog/Dharma-AI/gpu-management-pt2) — Hugging Face - Blog
+- [LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b) — Hugging Face - Blog
+- [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq) — Hugging Face - Blog
+- [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels) — Hugging Face - Blog
+- [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai) — Hugging Face - Blog
+- [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](https://huggingface.co/blog/huggingface-hub-release-ci) — Hugging Face - Blog
+- [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) — Hugging Face - Blog
+- [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) — Hugging Face - Blog
+- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) — Hugging Face - Blog
+- [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2) — Hugging Face - Blog
+- [How to build scalable web apps with OpenAI's Privacy Filter](https://huggingface.co/blog/openai-privacy-filter-web-apps) — Hugging Face - Blog
+- [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4) — Hugging Face - Blog
+
 ## Обновление 2026-08-17 09:26 UTC
 
 - [How to Use Transformers.js in a Chrome Extension](https://huggingface.co/blog/transformersjs-chrome-extension) — Hugging Face - Blog
