@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-08-20 09:20 UTC
+
+- [LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation](https://huggingface.co/blog/LiquidAI/qad) — Hugging Face - Blog
+- [Baseten on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/baseten) — Hugging Face - Blog
+- [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) — Hugging Face - Blog
+- [Newer Models, Same Advantage](https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages) — Hugging Face - Blog
+- [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq) — Hugging Face - Blog
+- [PRX Part 4: Our Data Strategy](https://huggingface.co/blog/Photoroom/prx-part4-data) — Hugging Face - Blog
+- [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench) — Hugging Face - Blog
+- [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel) — Hugging Face - Blog
+- [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](https://huggingface.co/blog/ffasr-leaderboard) — Hugging Face - Blog
+- [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) — Hugging Face - Blog
+- [Holo3.1: Fast & Local Computer Use Agents](https://huggingface.co/blog/Hcompany/holo31) — Hugging Face - Blog
+- [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) — Hugging Face - Blog
+
 ## Обновление 2026-08-19 09:19 UTC
 
 - [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) — Hugging Face - Blog
