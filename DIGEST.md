@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-08-24 09:33 UTC
+
+- [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer) — Hugging Face - Blog
+- [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile) — Hugging Face - Blog
+- [DiScoFormer: One transformer for density and score, across distributions](https://huggingface.co/blog/allenai/discoformer) — Hugging Face - Blog
+- [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-private-data) — Hugging Face - Blog
+- [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) — Hugging Face - Blog
+- [OVHcloud on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud) — Hugging Face - Blog
+- [Arm will be @ PyTorch Conference, Join Us!](https://huggingface.co/blog/Arm/arm-at-pytorch-conference) — Hugging Face - Blog
+- [SyGra: The One-Stop Framework for Building Data for LLMs and SLMs](https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework) — Hugging Face - Blog
+- [Democratizing AI Safety with RiskRubric.ai](https://huggingface.co/blog/riskrubric) — Hugging Face - Blog
+- [Visible Watermarking with Gradio](https://huggingface.co/blog/watermarking-with-gradio) — Hugging Face - Blog
+- [SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence](https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai) — Hugging Face - Blog
+- [Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H](https://huggingface.co/blog/Hcompany/holo1) — Hugging Face - Blog
+
 ## Обновление 2026-08-23 09:14 UTC
 
 - [Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains](https://huggingface.co/blog/JetBrains/mellum2-launch) — Hugging Face - Blog
