@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-08-30 14:01 UTC
+
+- [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop) — Hugging Face - Blog
+- [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation) — Hugging Face - Blog
+- [Welcome Inkling by Thinking Machines](https://huggingface.co/blog/thinkingmachines-inkling) — Hugging Face - Blog
+- [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq) — Hugging Face - Blog
+- [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile) — Hugging Face - Blog
+- [PRX Part 4: Our Data Strategy](https://huggingface.co/blog/Photoroom/prx-part4-data) — Hugging Face - Blog
+- [DiScoFormer: One transformer for density and score, across distributions](https://huggingface.co/blog/allenai/discoformer) — Hugging Face - Blog
+- [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](https://huggingface.co/blog/ffasr-leaderboard) — Hugging Face - Blog
+- [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) — Hugging Face - Blog
+- [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) — Hugging Face - Blog
+- [Reachy Mini goes fully local](https://huggingface.co/blog/local-reachy-mini-conversation) — Hugging Face - Blog
+- [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers) — Hugging Face - Blog
+
 ## Обновление 2026-08-29 14:02 UTC
 
 - [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south) — Hugging Face - Blog
