@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-08-31 16:25 UTC
+
+- [Meta is back with Muse Glimmer: local, agentic, multimodal, and open source](https://huggingface.co/blog/muse-glimmer) — Hugging Face - Blog
+- [DeepInfra on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-deepinfra) — Hugging Face - Blog
+- [Back to The Future: Evaluating AI Agents on Predicting Future Events](https://huggingface.co/blog/futurebench) — Hugging Face - Blog
+- [Asynchronous Robot Inference: Decoupling Action Prediction and Execution](https://huggingface.co/blog/async-robot-inference) — Hugging Face - Blog
+- [Upskill your LLMs With Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-servers) — Hugging Face - Blog
+- [Introducing Training Cluster as a Service - a new collaboration with NVIDIA](https://huggingface.co/blog/nvidia-training-cluster) — Hugging Face - Blog
+- [Tiny Agents in Python: a MCP-powered agent in ~70 lines of code](https://huggingface.co/blog/python-tiny-agents) — Hugging Face - Blog
+- [LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?](https://huggingface.co/blog/lerobot-datasets) — Hugging Face - Blog
+- [Open R1: Update #4](https://huggingface.co/blog/open-r1/update-4) — Hugging Face - Blog
+- [LeRobot goes to driving school: World’s largest open-source self-driving dataset](https://huggingface.co/blog/lerobot-goes-to-driving-school) — Hugging Face - Blog
+- [Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥](https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic) — Hugging Face - Blog
+- [How to deploy and fine-tune DeepSeek models on AWS](https://huggingface.co/blog/deepseek-r1-aws) — Hugging Face - Blog
+
 ## Обновление 2026-08-30 14:01 UTC
 
 - [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop) — Hugging Face - Blog
