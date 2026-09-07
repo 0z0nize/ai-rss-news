@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-09-07 14:30 UTC
+
+- [Experimenting with the proposed Cross-Origin Storage API in Transformers.js](https://huggingface.co/blog/cross-origin-storage) — Hugging Face - Blog
+- [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](https://huggingface.co/blog/torch-profiler) — Hugging Face - Blog
+- [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](https://huggingface.co/blog/delta-weight-sync) — Hugging Face - Blog
+- [AI and the Future of Cybersecurity: Why Openness Matters](https://huggingface.co/blog/cybersecurity-openness) — Hugging Face - Blog
+- [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](https://huggingface.co/blog/waypoint-1-5) — Hugging Face - Blog
+- [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4) — Hugging Face - Blog
+- [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](https://huggingface.co/blog/modular-diffusers) — Hugging Face - Blog
+- [NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini) — Hugging Face - Blog
+- [Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training](https://huggingface.co/blog/accelerate-nd-parallel) — Hugging Face - Blog
+- [Vision Language Model Alignment in TRL ⚡️](https://huggingface.co/blog/trl-vlm-alignment) — Hugging Face - Blog
+- [Parquet Content-Defined Chunking](https://huggingface.co/blog/parquet-cdc) — Hugging Face - Blog
+- [TimeScope: How Long Can Your Video Large Multimodal Model Go?](https://huggingface.co/blog/timescope-video-lmm-benchmark) — Hugging Face - Blog
+
 ## Обновление 2026-09-06 12:24 UTC
 
 - [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code) — Hugging Face - Blog
