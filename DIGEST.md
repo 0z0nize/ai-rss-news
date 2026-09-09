@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-09-09 13:11 UTC
+
+- [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom) — Hugging Face - Blog
+- [How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code](https://huggingface.co/blog/pwc-search) — Hugging Face - Blog
+- [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](https://huggingface.co/blog/ffasr-leaderboard) — Hugging Face - Blog
+- [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) — Hugging Face - Blog
+- [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) — Hugging Face - Blog
+- [Build a Domain-Specific Embedding Model in Under a Day](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune) — Hugging Face - Blog
+- [LeRobot v0.5.0: Scaling Every Dimension](https://huggingface.co/blog/lerobot-release-v050) — Hugging Face - Blog
+- [NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini) — Hugging Face - Blog
+- [Diffusers welcomes FLUX-2](https://huggingface.co/blog/flux-2) — Hugging Face - Blog
+- [Streaming datasets: 100x More Efficient](https://huggingface.co/blog/streaming-datasets) — Hugging Face - Blog
+- [huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](https://huggingface.co/blog/huggingface-hub-v1) — Hugging Face - Blog
+- [LeRobot v0.4.0: Supercharging OSS Robot Learning](https://huggingface.co/blog/lerobot-release-v040) — Hugging Face - Blog
+
 ## Обновление 2026-09-08 13:06 UTC
 
 - [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2) — Hugging Face - Blog
