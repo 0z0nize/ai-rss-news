@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-09-26 13:25 UTC
+
+- [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi) — Hugging Face - Blog
+- [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an) — Hugging Face - Blog
+- [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code) — Hugging Face - Blog
+- [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south) — Hugging Face - Blog
+- [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm) — Hugging Face - Blog
+- [Making Knowledge Distillation Cheap Enough to Run at Scale](https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation) — Hugging Face - Blog
+- [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management) — Hugging Face - Blog
+- [Grabette: an open system to record robot-manipulation data](https://huggingface.co/blog/grabette) — Hugging Face - Blog
+- [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026) — Hugging Face - Blog
+- [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile) — Hugging Face - Blog
+- [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels) — Hugging Face - Blog
+- [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai) — Hugging Face - Blog
+
 ## Обновление 2026-09-25 14:13 UTC
 
 - [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark) — Hugging Face - Blog
