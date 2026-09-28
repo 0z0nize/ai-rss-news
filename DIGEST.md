@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-09-28 17:04 UTC
+
+- [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4) — Hugging Face - Blog
+- [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes) — Hugging Face - Blog
+- [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south) — Hugging Face - Blog
+- [DiScoFormer: One transformer for density and score, across distributions](https://huggingface.co/blog/allenai/discoformer) — Hugging Face - Blog
+- [Agentic Resource Discovery: Let agents search](https://huggingface.co/blog/agentic-resource-discovery-launch) — Hugging Face - Blog
+- [Any Custom Frontend with Gradio's Backend](https://huggingface.co/blog/introducing-gradio-server) — Hugging Face - Blog
+- [TRL v1.0: Post-Training Library Built to Move with the Field](https://huggingface.co/blog/trl-v1) — Hugging Face - Blog
+- [Liberate your OpenClaw](https://huggingface.co/blog/liberate-your-openclaw) — Hugging Face - Blog
+- [Custom Kernels for All from Codex and Claude](https://huggingface.co/blog/custom-cuda-kernels-agent-skills) — Hugging Face - Blog
+- [Swift Transformers Reaches 1.0 – and Looks to the Future](https://huggingface.co/blog/swift-transformers) — Hugging Face - Blog
+- [Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!](https://huggingface.co/blog/Writer/announcing-palmyra-mini) — Hugging Face - Blog
+- [Ettin Suite: SoTA Paired Encoders and Decoders](https://huggingface.co/blog/ettin) — Hugging Face - Blog
+
 ## Обновление 2026-09-27 14:21 UTC
 
 - [How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows](https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp) — Hugging Face - Blog
