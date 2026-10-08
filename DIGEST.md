@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-10-08 15:54 UTC
+
+- [Multimodal open d1 decision models for the edge](https://huggingface.co/blog/LiquidAI/open-d1) — Hugging Face - Blog
+- [Introducing Falcon ASR](https://huggingface.co/blog/tiiuae/falcon-asr) — Hugging Face - Blog
+- [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026) — Hugging Face - Blog
+- [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) — Hugging Face - Blog
+- [Welcome RL Environments to the hub](https://huggingface.co/blog/rl-environments) — Hugging Face - Blog
+- [Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL](https://huggingface.co/blog/asyncgrpo-lora-hfjobs) — Hugging Face - Blog
+- [Rebuilding AUTOMATIC1111 with Gradio Workflow](https://huggingface.co/blog/gradio-workflow-1111) — Hugging Face - Blog
+- [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme) — Hugging Face - Blog
+- [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](https://huggingface.co/blog/webgpu-kernels) — Hugging Face - Blog
+- [Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2) — Hugging Face - Blog
+- [How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code](https://huggingface.co/blog/pwc-search) — Hugging Face - Blog
+- [Measuring benchmark optimization in speech recognition](https://huggingface.co/blog/asr-benchmark-optimization) — Hugging Face - Blog
+
 ## Обновление 2026-10-07 15:50 UTC
 
 - [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026) — Hugging Face - Blog
