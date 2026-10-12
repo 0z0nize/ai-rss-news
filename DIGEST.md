@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-10-12 18:16 UTC
+
+- [Introducing Falcon ASR](https://huggingface.co/blog/tiiuae/falcon-asr) — Hugging Face - Blog
+- [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4) — Hugging Face - Blog
+- [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme) — Hugging Face - Blog
+- [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](https://huggingface.co/blog/grpo-with-trl-ifstruct) — Hugging Face - Blog
+- [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) — Hugging Face - Blog
+- [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq) — Hugging Face - Blog
+- [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile) — Hugging Face - Blog
+- [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](https://huggingface.co/blog/skypilot-hf-storage) — Hugging Face - Blog
+- [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) — Hugging Face - Blog
+- [Featuring Every Eval Ever Results on Hugging Face Model Pages](https://huggingface.co/blog/eee-community-evals) — Hugging Face - Blog
+- [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) — Hugging Face - Blog
+- [Migrating Your GitHub CI to Hugging Face Jobs](https://huggingface.co/blog/github-ci-hf-jobs) — Hugging Face - Blog
+
 ## Обновление 2026-10-11 15:08 UTC
 
 - [Impactful scheduling for GPU clusters](https://huggingface.co/blog/allenai/impactful-scheduling) — Hugging Face - Blog
