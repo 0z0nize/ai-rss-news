@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-10-15 13:43 UTC
+
+- [Apertus 1.5 Release Notes](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes) — Hugging Face - Blog
+- [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](https://huggingface.co/blog/allenai/hiro-acev2) — Hugging Face - Blog
+- [The model that didn't exist, so you made it yourself](https://huggingface.co/blog/building-with-ml-intern) — Hugging Face - Blog
+- [Introducing Falcon ASR](https://huggingface.co/blog/tiiuae/falcon-asr) — Hugging Face - Blog
+- [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) — Hugging Face - Blog
+- [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](https://huggingface.co/blog/open-tts-leaderboard) — Hugging Face - Blog
+- [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source) — Hugging Face - Blog
+- [Welcome RL Environments to the hub](https://huggingface.co/blog/rl-environments) — Hugging Face - Blog
+- [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi) — Hugging Face - Blog
+- [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](https://huggingface.co/blog/omlx) — Hugging Face - Blog
+- [tokenizers v1: encode, decode and scaling, measured](https://huggingface.co/blog/tokenizers-v1) — Hugging Face - Blog
+- [Your Agent Aced the Task. Will It Do It Again?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency) — Hugging Face - Blog
+
 ## Обновление 2026-10-14 14:06 UTC
 
 - [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b) — Hugging Face - Blog
