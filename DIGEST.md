@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-10-19 15:54 UTC
+
+- [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](https://huggingface.co/blog/allenai/hiro-acev2) — Hugging Face - Blog
+- [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs) — Hugging Face - Blog
+- [Migrating Your GitHub CI to Hugging Face Jobs](https://huggingface.co/blog/github-ci-hf-jobs) — Hugging Face - Blog
+- [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) — Hugging Face - Blog
+- [Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains](https://huggingface.co/blog/JetBrains/mellum2-launch) — Hugging Face - Blog
+- [LeRobot v0.5.0: Scaling Every Dimension](https://huggingface.co/blog/lerobot-release-v050) — Hugging Face - Blog
+- [Diffusers welcomes FLUX-2](https://huggingface.co/blog/flux-2) — Hugging Face - Blog
+- [On the Shifting Global Compute Landscape](https://huggingface.co/blog/huggingface/shifting-compute-landscape) — Hugging Face - Blog
+- [Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac](https://huggingface.co/blog/lerobotxnvidia-healthcare) — Hugging Face - Blog
+- [Granite 4.0 Nano: Just how small can you go?](https://huggingface.co/blog/ibm-granite/granite-4-nano) — Hugging Face - Blog
+- [Supercharge your OCR Pipelines with Open Models](https://huggingface.co/blog/ocr-open-models) — Hugging Face - Blog
+- [Smol2Operator: Post-Training GUI Agents for Computer Use](https://huggingface.co/blog/smol2operator) — Hugging Face - Blog
+
 ## Обновление 2026-10-18 12:49 UTC
 
 - [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining) — Hugging Face - Blog
