@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-10-31 14:51 UTC
+
+- [nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween) — Hugging Face - Blog
+- [Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready](https://huggingface.co/blog/announcing-project-protostar) — Hugging Face - Blog
+- [Introducing Falcon ASR](https://huggingface.co/blog/tiiuae/falcon-asr) — Hugging Face - Blog
+- [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) — Hugging Face - Blog
+- [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) — Hugging Face - Blog
+- [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4) — Hugging Face - Blog
+- [Welcome RL Environments to the hub](https://huggingface.co/blog/rl-environments) — Hugging Face - Blog
+- [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](https://huggingface.co/blog/omlx) — Hugging Face - Blog
+- [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](https://huggingface.co/blog/webgpu-kernels) — Hugging Face - Blog
+- [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south) — Hugging Face - Blog
+- [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder) — Hugging Face - Blog
+- [Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) — Hugging Face - Blog
+
 ## Обновление 2026-10-30 15:22 UTC
 
 - [Can we trust LLMs to judge whether a research idea is novel?](https://huggingface.co/blog/allenai/novelty-bench) — Hugging Face - Blog
