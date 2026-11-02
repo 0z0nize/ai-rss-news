@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-11-02 18:53 UTC
+
+- [Welcome FLUX.3 Image Klein in Diffusers](https://huggingface.co/blog/flux-3) — Hugging Face - Blog
+- [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](https://huggingface.co/blog/omlx) — Hugging Face - Blog
+- [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide) — Hugging Face - Blog
+- [How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code](https://huggingface.co/blog/pwc-search) — Hugging Face - Blog
+- [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings) — Hugging Face - Blog
+- [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](https://huggingface.co/blog/nvidia/cosmos-h-dreams) — Hugging Face - Blog
+- [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile) — Hugging Face - Blog
+- [Featuring Every Eval Ever Results on Hugging Face Model Pages](https://huggingface.co/blog/eee-community-evals) — Hugging Face - Blog
+- [GLM-5.2: Built for Long-Horizon Tasks](https://huggingface.co/blog/zai-org/glm-52-blog) — Hugging Face - Blog
+- [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) — Hugging Face - Blog
+- [TRL v1.0: Post-Training Library Built to Move with the Field](https://huggingface.co/blog/trl-v1) — Hugging Face - Blog
+- [Mixture of Experts (MoEs) in Transformers](https://huggingface.co/blog/moe-transformers) — Hugging Face - Blog
+
 ## Обновление 2026-11-01 15:30 UTC
 
 - [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training) — Hugging Face - Blog
