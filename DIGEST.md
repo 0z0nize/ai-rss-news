@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-11-05 16:53 UTC
+
+- [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts) — Hugging Face - Blog
+- [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor) — Hugging Face - Blog
+- [CWE-bench v2: More coverage, quality, and transparency](https://huggingface.co/blog/cwe-bench) — Hugging Face - Blog
+- [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic) — Hugging Face - Blog
+- [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1) — Hugging Face - Blog
+- [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support) — Hugging Face - Blog
+- [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization) — Hugging Face - Blog
+- [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1) — Hugging Face - Blog
+- [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b) — Hugging Face - Blog
+- [The model that didn't exist, so you made it yourself](https://huggingface.co/blog/building-with-ml-intern) — Hugging Face - Blog
+- [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) — Hugging Face - Blog
+- [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source) — Hugging Face - Blog
+
 ## Обновление 2026-11-04 16:38 UTC
 
 - [StateBench: Testing how language models track state changes over long documents](https://huggingface.co/blog/allenai/statebench) — Hugging Face - Blog
