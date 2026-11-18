@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-11-18 17:38 UTC
+
+- [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse) — Hugging Face - Blog
+- [180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](https://huggingface.co/blog/moe-expert-streaming) — Hugging Face - Blog
+- [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://huggingface.co/blog/rumble-2-flash) — Hugging Face - Blog
+- [XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench) — Hugging Face - Blog
+- [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy) — Hugging Face - Blog
+- [Egyptian and Nigerian English join the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-liva) — Hugging Face - Blog
+- [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building) — Hugging Face - Blog
+- [CWE-bench v2: More coverage, quality, and transparency](https://huggingface.co/blog/cwe-bench) — Hugging Face - Blog
+- [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic) — Hugging Face - Blog
+- [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4) — Hugging Face - Blog
+- [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support) — Hugging Face - Blog
+- [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization) — Hugging Face - Blog
+
 ## Обновление 2026-11-17 17:56 UTC
 
 - [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1) — Hugging Face - Blog
