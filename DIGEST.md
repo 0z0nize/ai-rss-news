@@ -2,6 +2,21 @@
 
 Автоматически обновляемая подборка статей по ML / NLP / Data Science.
 
+## Обновление 2026-11-21 16:27 UTC
+
+- [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](https://huggingface.co/blog/inkling2mini) — Hugging Face - Blog
+- [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale) — Hugging Face - Blog
+- [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy) — Hugging Face - Blog
+- [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic) — Hugging Face - Blog
+- [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training) — Hugging Face - Blog
+- [AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms](https://huggingface.co/blog/anylanguagemodel-1-0) — Hugging Face - Blog
+- [MPS in PyTorch 2.15](https://huggingface.co/blog/mps-pytorch-2-15) — Hugging Face - Blog
+- [TorchNeuron: running HF models on AWS Trainium is easier than ever](https://huggingface.co/blog/hf-torchneuron) — Hugging Face - Blog
+- [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam) — Hugging Face - Blog
+- [Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta](https://huggingface.co/blog/meta-muse-spark-open) — Hugging Face - Blog
+- [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b) — Hugging Face - Blog
+- [The model that didn't exist, so you made it yourself](https://huggingface.co/blog/building-with-ml-intern) — Hugging Face - Blog
+
 ## Обновление 2026-11-20 17:22 UTC
 
 - [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale) — Hugging Face - Blog
